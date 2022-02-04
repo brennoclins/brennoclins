@@ -1,4 +1,6 @@
-# Brenno C. Lins - Developer
+<div align="center">
+  <h1>Brenno C. Lins - Developer</h1>
+</div>
 
 ##
 <table width="100%" border="0">
@@ -33,9 +35,15 @@
 </div>
 
 <br>
-<hr>
 <br>
 
+##
+
+<div align="center">
+  <img src="https://github.com/brennoclins/brennoclins/blob/output/github-contribution-grid-snake2.svg" />
+</div>
+
+##
 
 ### Contatos
 <div>
@@ -46,13 +54,4 @@
   <a href="https://www.linkedin.com/in/brennoclin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-##
-
-<div align="center">
-  <img src="https://github.com/brennoclins/brennoclins/blob/output/github-contribution-grid-snake2.svg" />
-</div>
-
-##
-
-![snake animation](https://github.com/brennoclins/brennoclins/blob/output/github-contribution-grid-snake2.svg)
 

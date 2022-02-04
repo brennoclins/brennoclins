@@ -54,7 +54,3 @@
   <a href="https://www.twitch.tv/bclst" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
-
-## 🎶 Ouvindo...
- 
- <img src="https://spotify-github-profile.vercel.app/api/view?uid=o5jbvukl9rt7dpswmkhg2bje5&redirect=true" />

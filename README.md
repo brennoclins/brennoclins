@@ -25,12 +25,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="60" height="60" />
+</div>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"  width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"  width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  width="60" height="60" />
-</div>
+</table>
 
 <br>
 <hr>
@@ -48,8 +50,8 @@
 
 ##
 
-<div>
-  <img src="https://github.com/brennoclins/brennoclins/blob/output/github-contribution-grid-snake.svg" />
+<div align="center">
+  <img src="https://github.com/brennoclins/brennoclins/blob/output/github-contribution-grid-snake2.svg" />
 </div>
 
 ##

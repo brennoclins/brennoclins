@@ -57,4 +57,4 @@
 
 ## 🎶 Ouvindo...
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12146821908&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12146821908&redirect=true)
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=o5jbvukl9rt7dpswmkhg2bje5&redirect=true" />

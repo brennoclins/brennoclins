@@ -6,7 +6,9 @@
 <table width="100%" border="0">
   <tr>
     <td>
+      <a href="https://bcl-st.com.br">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brennoclins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      </a>
     </td>
     <td>
       <a href="https://github.com/brennoclins">

@@ -11,6 +11,7 @@
     <td>
       <a href="https://github.com/brennoclins">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennoclins&layout=compact&langs_count=9&theme=dracula&custom_title=Linguagens mais usadas"/>
+      </a>
     </td>
     
   </tr>

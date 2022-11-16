@@ -2,6 +2,10 @@
   <h1>Brenno C. Lins - Developer</h1>
 </div>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennoclins&layout=compact&langs_count=9&theme=dracula&custom_title=Linguagens mais usadas"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brennoclins&layout=compact)](https://github.com/brennoclins/github-readme-stats)
+
 ##
 <table width="100%" border="0">
   <tr>

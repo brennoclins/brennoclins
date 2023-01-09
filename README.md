@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Brenno C. Lins - Developer</h1>
+  <h1>Brenno C. Lins - Fullstack Developer</h1>
 </div>
 
 ##

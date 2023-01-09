@@ -12,7 +12,7 @@
     </td>
     <td>
       <a href="https://github.com/brennoclins" target="_blank" rel="noopener noreferrer">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennoclins&layout=compact&langs_count=9&theme=dracula&custom_title=Linguagens%20mais%20usadas" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennoclins&layout=compact&langs_count=9&theme=dracula&custom_title=Linguagens%20mais%20usadas&range-last_7_days" />
       </a>
     </td>
     
@@ -63,4 +63,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>  -->
 </div>
-

@@ -7,7 +7,7 @@
   <tr>
     <td>
       <a href="https://bcl-st.com.br" target="_blank" rel="noopener noreferrer">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brennoclins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brennoclins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&range-last_7_days" />
       </a>
     </td>
     <td>

@@ -1,6 +1,17 @@
 <div align="center">
-  <h1>Brenno C. Lins - Fullstack Developer</h1>
+  <h1>Brenno C. Lins - Systems developer analyst</h1>
 </div>
+
+```javascript
+const me = {
+    name: "Brenno C. Lins",
+    education: ["Analysis and systems development", "Drummer Musician"],
+    job: "Freelance developer analyst",
+    languages: ["JavaScript", "TypeScript", "Shell Script", "Python"],
+    hobby: ["Customize my motorcycle", "Listen to music", "Adventures"], 
+};
+console.log("A little about myself ", me);
+```
 
 ##
 <table width="100%" border="0">
@@ -12,7 +23,7 @@
     </td>
     <td>
       <a href="https://github.com/brennoclins" target="_blank" rel="noopener noreferrer">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennoclins&layout=compact&langs_count=9&theme=dracula&custom_title=Linguagens%20mais%20usadas&range-last_7_days" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennoclins&layout=compact&langs_count=9&theme=dracula&custom_title=Most%20Used%20Langues&range-last_7_days" />
       </a>
     </td>
     
@@ -21,20 +32,33 @@
 
 
 
-### Ferramentas e Tecnologias
+### Tools and Technologies / Ferramentas e Tecnologias
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"  width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  width="60" height="60" />
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="60" height="60" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  width="60" height="60" /> 
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"  width="60" height="60" />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"  width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"  width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  width="60" height="60" />
+
 </div>
 
 <br>
@@ -48,7 +72,7 @@
 
 ## -->
 
-### Contatos
+### Contact / Contatos
 <div>
   <a href="https://twitter.com/BrennoCLins" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -59,7 +83,7 @@
   <a href="https://www.twitch.tv/bclst" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
-  <!-- <a href="https://www.linkedin.com/in/brennoclins" target="_blank" rel="noopener noreferrer">
+  <!-- <a href="https://br.linkedin.com/in/brennoclins" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>  -->
 </div>

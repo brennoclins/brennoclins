@@ -1,17 +1,28 @@
 <div align="center">
-  <h1>Brenno C. Lins - Systems developer analyst</h1>
+  <h1>Brenno C. Lins - Software Engineer</h1>
 </div>
 
 ```javascript
 const me = {
     name: "Brenno C. Lins",
-    education: ["Analysis and systems development", "Drummer Musician"],
-    job: "Freelance developer analyst",
+    education: ["Software Engineer", "Systems Analyst", "Music Producer", "Drummer Musician"],
+    job: "Software Engineer",
     languages: ["JavaScript", "TypeScript", "Shell Script", "Python"],
-    hobby: ["Customize my motorcycle", "Listen to music", "Adventures"], 
+    hobby: ["Customize my motorcycle", "Listen to music", "Adventures", "Get to know new cities and their cultures"], 
 };
 console.log("A little about myself ", me);
 ```
+
+<!-- ```javascript
+const mim = {
+    name: "Brenno C. Lins",
+    education: ["Engenheiro de Software", "Analista de Sistemas", "Produtor Musical", "Musico Baterista"],
+    job: "Engenheiro de Softwares",
+    languages: ["JavaScript", "TypeScript", "Shell Script", "Python"],
+    hobby: ["Personalizar minha motocicleta", "Ouvir música", "Aventuras", "Conheça novas cidades e suas culturas"], 
+};
+console.log("Um pouco sobre mim ", mim);
+``` -->
 
 ##
 <table width="100%" border="0">
@@ -32,7 +43,7 @@ console.log("A little about myself ", me);
 
 
 
-### Tools and Technologies / Ferramentas e Tecnologias
+### Tools and Technologies
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="60" height="60" />
@@ -72,7 +83,7 @@ console.log("A little about myself ", me);
 
 ## -->
 
-### Contact / Contatos
+### Contact
 <div>
   <a href="https://twitter.com/BrennoCLins" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -83,7 +94,7 @@ console.log("A little about myself ", me);
   <!-- <a href="https://www.twitch.tv/bclst" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a> -->
-  <!-- <a href="https://br.linkedin.com/in/brennoclins" target="_blank" rel="noopener noreferrer">
+  <a href="https://br.linkedin.com/in/brennoclins" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>  -->
+  </a> 
 </div>

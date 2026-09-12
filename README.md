@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="assets/BCL-ST_logo_2026.png" alt="BCL-ST logo" height="140" />
   <h1>Brenno C. Lins - Software Engineer</h1>
 </div>
 
@@ -8,93 +9,91 @@ const me = {
     education: ["Software Engineer", "Systems Analyst", "Music Producer", "Drummer Musician"],
     job: "Software Engineer",
     languages: ["JavaScript", "TypeScript", "Shell Script", "Python"],
-    hobby: ["Customize my motorcycle", "Listen to music", "Adventures", "Get to know new cities and their cultures"], 
+    hobby: ["Customize my motorcycle", "Listen to music", "Adventures", "Get to know new cities and their cultures"],
 };
 console.log("A little about myself ", me);
 ```
 
-<!-- ```javascript
+<!-- Versão em português:
+```javascript
 const mim = {
     name: "Brenno C. Lins",
     education: ["Engenheiro de Software", "Analista de Sistemas", "Produtor Musical", "Musico Baterista"],
     job: "Engenheiro de Softwares",
     languages: ["JavaScript", "TypeScript", "Shell Script", "Python"],
-    hobby: ["Personalizar minha motocicleta", "Ouvir música", "Aventuras", "Conheça novas cidades e suas culturas"], 
+    hobby: ["Personalizar minha motocicleta", "Ouvir música", "Aventuras", "Conheça novas cidades e suas culturas"],
 };
 console.log("Um pouco sobre mim ", mim);
-``` -->
+```
+-->
 
-##
-<table width="100%" border="0">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=brennoclins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brennoclins&show_icons=true&include_all_commits=true&count_private=true" alt="Brenno's GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brennoclins&layout=compact&langs_count=9&theme=dracula&custom_title=Most%20Used%20Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennoclins&layout=compact&langs_count=9&custom_title=Most%20Used%20Languages" alt="Most used languages" />
+  </picture>
+</div>
+
+## Tools and Technologies
+
+<table align="center">
   <tr>
-    <td>
-      <a href="https://bcl-st.com.br" target="_blank" rel="noopener noreferrer">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brennoclins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&range-last_7_days" />
-      </a>
+    <td valign="top" width="30%">
+      <h3 align="center">Frontend</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,redux,graphql,js,html,css&theme=dark&perline=3" alt="Frontend: TypeScript, React, Next.js, Tailwind, Redux, GraphQL, JavaScript, HTML, CSS" />
+      </p>
     </td>
-    <td>
-      <a href="https://github.com/brennoclins" target="_blank" rel="noopener noreferrer">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennoclins&layout=compact&langs_count=9&theme=dracula&custom_title=Most%20Used%20Langues&range-last_7_days" />
-      </a>
+    <td valign="top" width="30%">
+      <h3 align="center">Backend</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,python,bash,nestjs,express,prisma,jest,go&theme=dark&perline=4" alt="Backend: Node.js, Python, Bash, NestJS, Express, Prisma, Jest, Go" />
+      </p>
     </td>
-    
+    <td valign="top" width="20%">
+      <h3 align="center">Databases</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis&theme=dark&perline=2" alt="Databases: PostgreSQL, MongoDB, Firebase, Redis" />
+      </p>
+    </td>
+    <td valign="top" width="20%">
+      <h3 align="center">Tools</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=aws,rabbitmq,docker,vscode&theme=dark&perline=2" alt="Tools: AWS, RabbitMQ, Docker, VS Code" />
+      </p>
+    </td>
   </tr>
 </table>
 
-
-
-### Tools and Technologies
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"  width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" />        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  width="60" height="60" />
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="60" height="60" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  width="60" height="60" /> 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"  width="60" height="60" />        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"  width="60" height="60" />
-
-</div>
-
-<br>
-<br>
-
-<!-- ##
+## Contributions
 
 <div align="center">
-  <img src="https://github.com/brennoclins/brennoclins/blob/output/github-contribution-grid-snake2.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brennoclins/brennoclins/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/brennoclins/brennoclins/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
+  </picture>
 </div>
 
-## -->
+## Contact
 
-### Contact
 <div>
+  <a href="https://bcl-st.com.br" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-bcl--st.com.br-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:dev@bcl-st.com.br">
+    <img src="https://img.shields.io/badge/Email-dev%40bcl--st.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://br.linkedin.com/in/brennoclins" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://twitter.com/BrennoCLins" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.youtube.com/@bcllab" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <!-- <a href="https://www.twitch.tv/bclst" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a> -->
-  <a href="https://br.linkedin.com/in/brennoclins" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
 </div>

@@ -1,33 +1,33 @@
 <img src="assets/bcl-st-banner.webp" alt="BCL-ST" width="100%" />
 
 <div align="center">
-  <h1>Brenno C. Lins - Software Engineer</h1>
-  <a href="README.pt-br.md">🇧🇷 Versão em português</a>
+  <h1>Brenno C. Lins - Engenheiro de Software</h1>
+  <a href="README.md">🇺🇸 English version</a>
 </div>
 
 ```javascript
-const me = {
+const mim = {
     name: "Brenno C. Lins",
-    education: ["Software Engineer", "Systems Analyst", "Music Producer", "Drummer Musician"],
-    job: "Software Engineer",
+    education: ["Engenheiro de Software", "Analista de Sistemas", "Produtor Musical", "Musico Baterista"],
+    job: "Engenheiro de Softwares",
     languages: ["JavaScript", "TypeScript", "Shell Script", "Python"],
-    hobby: ["Customize my motorcycle", "Listen to music", "Adventures", "Get to know new cities and their cultures"],
+    hobby: ["Personalizar minha motocicleta", "Ouvir música", "Aventuras", "Conhecer novas cidades e suas culturas"],
 };
-console.log("A little about myself ", me);
+console.log("Um pouco sobre mim ", mim);
 ```
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=brennoclins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brennoclins&show_icons=true&include_all_commits=true&count_private=true" alt="Brenno's GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=brennoclins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brennoclins&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub de Brenno" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brennoclins&layout=compact&langs_count=9&theme=dracula&custom_title=Most%20Used%20Languages" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennoclins&layout=compact&langs_count=9&custom_title=Most%20Used%20Languages" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brennoclins&layout=compact&langs_count=9&theme=dracula&custom_title=Linguagens%20Mais%20Usadas&locale=pt-br" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennoclins&layout=compact&langs_count=9&custom_title=Linguagens%20Mais%20Usadas&locale=pt-br" alt="Linguagens mais usadas" />
   </picture>
 </div>
 
-## Tools and Technologies
+## Ferramentas e Tecnologias
 
 <table align="center">
   <tr>
@@ -44,30 +44,30 @@ console.log("A little about myself ", me);
       </p>
     </td>
     <td valign="top" width="20%">
-      <h3 align="center">Databases</h3>
+      <h3 align="center">Bancos de Dados</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis&theme=dark&perline=2" alt="Databases: PostgreSQL, MongoDB, Firebase, Redis" />
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis&theme=dark&perline=2" alt="Bancos de Dados: PostgreSQL, MongoDB, Firebase, Redis" />
       </p>
     </td>
     <td valign="top" width="20%">
-      <h3 align="center">Tools</h3>
+      <h3 align="center">Ferramentas</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=aws,rabbitmq,docker,vscode&theme=dark&perline=2" alt="Tools: AWS, RabbitMQ, Docker, VS Code" />
+        <img src="https://skillicons.dev/icons?i=aws,rabbitmq,docker,vscode&theme=dark&perline=2" alt="Ferramentas: AWS, RabbitMQ, Docker, VS Code" />
       </p>
     </td>
   </tr>
 </table>
 
-## Contributions
+## Contribuições
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brennoclins/brennoclins/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/brennoclins/brennoclins/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
+    <img src="https://raw.githubusercontent.com/brennoclins/brennoclins/output/github-contribution-grid-snake.svg" alt="Animação da cobrinha no grid de contribuições do GitHub" />
   </picture>
 </div>
 
-## Contact
+## Contato
 
 <div>
   <a href="https://bcl-st.com.br" target="_blank" rel="noopener noreferrer">

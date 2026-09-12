@@ -1,5 +1,6 @@
+<img src="assets/bcl-st-banner.webp" alt="BCL-ST" width="100%" />
+
 <div align="center">
-  <img src="assets/BCL-ST_logo_2026.png" alt="BCL-ST logo" height="140" />
   <h1>Brenno C. Lins - Software Engineer</h1>
 </div>
 
@@ -84,8 +85,8 @@ console.log("Um pouco sobre mim ", mim);
   <a href="https://bcl-st.com.br" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-bcl--st.com.br-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
-  <a href="mailto:dev@bcl-st.com.br">
-    <img src="https://img.shields.io/badge/Email-dev%40bcl--st.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:info@bcl-st.com.br">
+    <img src="https://img.shields.io/badge/Email-info%40bcl--st.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://br.linkedin.com/in/brennoclins" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
